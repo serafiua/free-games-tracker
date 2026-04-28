@@ -79,7 +79,7 @@ def generate_readme(games: list, updated_at: str):
         "GitHub Actions runs every day at 09:00 WIB, scrapes Epic Games API,",
         "updates the data files, and commits the changes automatically.",
         "",
-        "Built with Python + Streamlit.",
+        "Built with Python + Streamlit. View the live app: _[https://free-games-tracker.streamlit.app/]_",
     ]
 
     with open("README.md", "w", encoding="utf-8") as f:

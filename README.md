@@ -1,0 +1,23 @@
+# 🎮 Free Games Tracker
+
+Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
+
+_Last updated: 2026-04-28 07:44 UTC_
+
+## 🔥 Current free games
+
+| Game | Normal Price | Available Until |
+|------|-------------|-----------------|
+| [DOOMBLADE](https://store.epicgames.com/en-US/p/doomblade-afdf9a) | IDR 130,999 | Apr 30, 2026 |
+
+## 📦 Data
+
+- [`data/games.json`](data/games.json) — current free games
+- [`data/history.json`](data/history.json) — all games ever tracked
+
+## 🤖 How it works
+
+GitHub Actions runs every day at 09:00 WIB, scrapes Epic Games API,
+updates the data files, and commits the changes automatically.
+
+Built with Python + Streamlit.

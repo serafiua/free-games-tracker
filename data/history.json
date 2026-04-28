@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "title": "DOOMBLADE",
+    "platform": "Epic Games",
+    "original_price": "IDR 130,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg",
+    "url": "https://store.epicgames.com/en-US/p/doomblade-afdf9a",
+    "start_date": "2026-04-23T15:00:00.000Z",
+    "end_date": "2026-04-30T15:00:00.000Z",
+    "scraped_at": "2026-04-28T08:14:58.555734+00:00"
+  }
+]

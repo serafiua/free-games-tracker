@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-04-28 08:14 UTC_
+_Last updated: 2026-04-29 05:22 UTC_
 
 ## 🔥 Current free games
 
@@ -20,4 +20,4 @@ _Last updated: 2026-04-28 08:14 UTC_
 GitHub Actions runs every day at 09:00 WIB, scrapes Epic Games API,
 updates the data files, and commits the changes automatically.
 
-Built with Python + Streamlit.
+Built with Python + Streamlit. View the live app: _https://free-games-tracker.streamlit.app/_

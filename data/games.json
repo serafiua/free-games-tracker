@@ -1,12 +1,22 @@
 [
   {
-    "title": "DOOMBLADE",
+    "title": "Firestone Online Idle RPG",
     "platform": "Epic Games",
-    "original_price": "IDR 130,999",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg",
-    "url": "https://store.epicgames.com/en-US/p/doomblade-afdf9a",
-    "start_date": "2026-04-23T15:00:00.000Z",
-    "end_date": "2026-04-30T15:00:00.000Z",
-    "scraped_at": "2026-04-30T05:25:41.643421+00:00"
+    "original_price": "0",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1xeuq.png",
+    "url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+    "start_date": "2026-04-30T15:00:00.000Z",
+    "end_date": "2026-05-07T15:00:00.000Z",
+    "scraped_at": "2026-05-01T05:37:44.094081+00:00"
+  },
+  {
+    "title": "Oddsparks: An Automation Adventure",
+    "platform": "Epic Games",
+    "original_price": "IDR 269,000",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png",
+    "url": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
+    "start_date": "2026-04-30T15:00:00.000Z",
+    "end_date": "2026-05-07T15:00:00.000Z",
+    "scraped_at": "2026-05-01T05:37:44.094081+00:00"
   }
 ]

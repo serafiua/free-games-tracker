@@ -2,13 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-04-30 05:25 UTC_
+_Last updated: 2026-05-01 05:37 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [DOOMBLADE](https://store.epicgames.com/en-US/p/doomblade-afdf9a) | IDR 130,999 | Apr 30, 2026 |
+| [Firestone Online Idle RPG](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) | 0 | May 07, 2026 |
+| [Oddsparks: An Automation Adventure](https://store.epicgames.com/en-US/p/oddsparks-58440c) | IDR 269,000 | May 07, 2026 |
 
 ## 📦 Data
 

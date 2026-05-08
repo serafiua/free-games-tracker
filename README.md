@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-05-07 05:26 UTC_
+_Last updated: 2026-05-08 04:50 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Firestone Online Idle RPG](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) | 0 | May 07, 2026 |
-| [Oddsparks: An Automation Adventure](https://store.epicgames.com/en-US/p/oddsparks-58440c) | IDR 269,000 | May 07, 2026 |
+| [Arranger: A Role-Puzzling Adventure](https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7) | IDR 169,000 | May 14, 2026 |
+| [Trash Goblin](https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7) | IDR 137,999 | May 14, 2026 |
 
 ## 📦 Data
 

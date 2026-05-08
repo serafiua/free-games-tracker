@@ -1,22 +1,22 @@
 [
   {
-    "title": "Firestone Online Idle RPG",
+    "title": "Arranger: A Role-Puzzling Adventure",
     "platform": "Epic Games",
-    "original_price": "0",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1xeuq.png",
-    "url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
-    "start_date": "2026-04-30T15:00:00.000Z",
-    "end_date": "2026-05-07T15:00:00.000Z",
-    "scraped_at": "2026-05-07T05:26:51.110716+00:00"
+    "original_price": "IDR 169,000",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-17mu3.jpg",
+    "url": "https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7",
+    "start_date": "2026-05-07T15:00:00.000Z",
+    "end_date": "2026-05-14T15:00:00.000Z",
+    "scraped_at": "2026-05-08T04:50:09.094548+00:00"
   },
   {
-    "title": "Oddsparks: An Automation Adventure",
+    "title": "Trash Goblin",
     "platform": "Epic Games",
-    "original_price": "IDR 269,000",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png",
-    "url": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
-    "start_date": "2026-04-30T15:00:00.000Z",
-    "end_date": "2026-05-07T15:00:00.000Z",
-    "scraped_at": "2026-05-07T05:26:51.110716+00:00"
+    "original_price": "IDR 137,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png",
+    "url": "https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7",
+    "start_date": "2026-05-07T15:00:00.000Z",
+    "end_date": "2026-05-14T15:00:00.000Z",
+    "scraped_at": "2026-05-08T04:50:09.094548+00:00"
   }
 ]

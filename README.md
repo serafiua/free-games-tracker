@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-05-14 05:43 UTC_
+_Last updated: 2026-05-15 05:49 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Arranger: A Role-Puzzling Adventure](https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7) | IDR 169,000 | May 14, 2026 |
-| [Trash Goblin](https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7) | IDR 137,999 | May 14, 2026 |
+| [The Telltale Batman Shadows Edition](https://store.epicgames.com/en-US/p/the-telltale-batman) | 0 | May 21, 2026 |
+| [Sunderfolk - Standard Edition](https://store.epicgames.com/en-US/p/sunderfolk-standard-edition-83c05e) | 0 | May 21, 2026 |
 
 ## 📦 Data
 

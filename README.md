@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-05-21 06:05 UTC_
+_Last updated: 2026-05-22 06:01 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [The Telltale Batman Shadows Edition](https://store.epicgames.com/en-US/p/the-telltale-batman) | 0 | May 21, 2026 |
-| [Sunderfolk - Standard Edition](https://store.epicgames.com/en-US/p/sunderfolk-standard-edition-83c05e) | 0 | May 21, 2026 |
+| [Down in Bermuda](https://store.epicgames.com/en-US/p/down-in-bermuda) | 0 | May 28, 2026 |
+| [Tomb Raider I-III Remastered Starring Lara Croft](https://store.epicgames.com/en-US/p/tomb-raider-iiii-remastered-538640) | 0 | May 28, 2026 |
 
 ## 📦 Data
 

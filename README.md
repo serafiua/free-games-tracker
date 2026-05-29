@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-05-28 06:05 UTC_
+_Last updated: 2026-05-29 06:07 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Down in Bermuda](https://store.epicgames.com/en-US/p/down-in-bermuda) | 0 | May 28, 2026 |
-| [Tomb Raider I-III Remastered Starring Lara Croft](https://store.epicgames.com/en-US/p/tomb-raider-iiii-remastered-538640) | 0 | May 28, 2026 |
+| [LONESTAR](https://store.epicgames.com/en-US/p/lonestar-83f143) | 0 | Jun 04, 2026 |
+| [Calico](https://store.epicgames.com/en-US/p/calico) | 0 | Jun 04, 2026 |
 
 ## 📦 Data
 

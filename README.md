@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-06-04 06:37 UTC_
+_Last updated: 2026-06-05 06:16 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [LONESTAR](https://store.epicgames.com/en-US/p/lonestar-83f143) | 0 | Jun 04, 2026 |
-| [Calico](https://store.epicgames.com/en-US/p/calico) | 0 | Jun 04, 2026 |
+| [Rogue Waters](https://store.epicgames.com/en-US/p/rogue-waters-9764d6) | 0 | Jun 11, 2026 |
+| [Songs of Conquest](https://store.epicgames.com/en-US/p/songs-of-conquest) | 0 | Jun 11, 2026 |
 
 ## 📦 Data
 

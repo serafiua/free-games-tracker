@@ -128,5 +128,25 @@
     "start_date": "2026-06-04T15:00:00.000Z",
     "end_date": "2026-06-11T15:00:00.000Z",
     "scraped_at": "2026-06-05T06:16:18.621460+00:00"
+  },
+  {
+    "title": "The Ouroboros King",
+    "platform": "Epic Games",
+    "original_price": "IDR 69,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
+    "url": "https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547",
+    "start_date": "2026-06-11T15:00:00.000Z",
+    "end_date": "2026-06-18T15:00:00.000Z",
+    "scraped_at": "2026-06-12T06:28:26.540258+00:00"
+  },
+  {
+    "title": "Warhammer 40K Speed Freeks",
+    "platform": "Epic Games",
+    "original_price": "IDR 137,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
+    "url": "https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c",
+    "start_date": "2026-06-11T15:00:00.000Z",
+    "end_date": "2026-06-18T15:00:00.000Z",
+    "scraped_at": "2026-06-12T06:28:26.540258+00:00"
   }
 ]

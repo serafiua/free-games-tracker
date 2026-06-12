@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-06-11 06:43 UTC_
+_Last updated: 2026-06-12 06:28 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Rogue Waters](https://store.epicgames.com/en-US/p/rogue-waters-9764d6) | 0 | Jun 11, 2026 |
-| [Songs of Conquest](https://store.epicgames.com/en-US/p/songs-of-conquest) | 0 | Jun 11, 2026 |
+| [The Ouroboros King](https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547) | IDR 69,999 | Jun 18, 2026 |
+| [Warhammer 40K Speed Freeks](https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c) | IDR 137,999 | Jun 18, 2026 |
 
 ## 📦 Data
 

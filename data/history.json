@@ -148,5 +148,25 @@
     "start_date": "2026-06-11T15:00:00.000Z",
     "end_date": "2026-06-18T15:00:00.000Z",
     "scraped_at": "2026-06-12T06:28:26.540258+00:00"
+  },
+  {
+    "title": "Citizen Sleeper",
+    "platform": "Epic Games",
+    "original_price": "IDR 137,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-xudwg.jpg",
+    "url": "https://store.epicgames.com/en-US/p/citizen-sleeper-944858",
+    "start_date": "2026-06-18T15:00:00.000Z",
+    "end_date": "2026-06-25T15:00:00.000Z",
+    "scraped_at": "2026-06-19T06:59:46.597102+00:00"
+  },
+  {
+    "title": "ROBOBEAT",
+    "platform": "Epic Games",
+    "original_price": "IDR 108,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-1ojda.png",
+    "url": "https://store.epicgames.com/en-US/p/robobeat-5f084b",
+    "start_date": "2026-06-18T15:00:00.000Z",
+    "end_date": "2026-06-25T15:00:00.000Z",
+    "scraped_at": "2026-06-19T06:59:46.597102+00:00"
   }
 ]

@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-06-18 06:46 UTC_
+_Last updated: 2026-06-19 06:59 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [The Ouroboros King](https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547) | IDR 69,999 | Jun 18, 2026 |
-| [Warhammer 40K Speed Freeks](https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c) | IDR 137,999 | Jun 18, 2026 |
+| [Citizen Sleeper](https://store.epicgames.com/en-US/p/citizen-sleeper-944858) | IDR 137,999 | Jun 25, 2026 |
+| [ROBOBEAT](https://store.epicgames.com/en-US/p/robobeat-5f084b) | IDR 108,999 | Jun 25, 2026 |
 
 ## 📦 Data
 

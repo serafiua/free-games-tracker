@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-06-25 06:00 UTC_
+_Last updated: 2026-06-26 06:04 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Citizen Sleeper](https://store.epicgames.com/en-US/p/citizen-sleeper-944858) | IDR 137,999 | Jun 25, 2026 |
-| [ROBOBEAT](https://store.epicgames.com/en-US/p/robobeat-5f084b) | IDR 108,999 | Jun 25, 2026 |
+| [RollerCoaster Tycoon 3 Complete Edition](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition) | IDR 288,000 | Jul 02, 2026 |
+| [Voidwrought](https://store.epicgames.com/en-US/p/voidwrought-ce8f4b) | IDR 137,999 | Jul 02, 2026 |
 
 ## 📦 Data
 

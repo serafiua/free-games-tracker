@@ -168,5 +168,25 @@
     "start_date": "2026-06-18T15:00:00.000Z",
     "end_date": "2026-06-25T15:00:00.000Z",
     "scraped_at": "2026-06-19T06:59:46.597102+00:00"
+  },
+  {
+    "title": "RollerCoaster Tycoon 3 Complete Edition",
+    "platform": "Epic Games",
+    "original_price": "IDR 288,000",
+    "thumbnail": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+    "url": "https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition",
+    "start_date": "2026-06-25T15:00:00.000Z",
+    "end_date": "2026-07-02T15:00:00.000Z",
+    "scraped_at": "2026-06-26T06:04:32.369162+00:00"
+  },
+  {
+    "title": "Voidwrought",
+    "platform": "Epic Games",
+    "original_price": "IDR 137,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg",
+    "url": "https://store.epicgames.com/en-US/p/voidwrought-ce8f4b",
+    "start_date": "2026-06-25T15:00:00.000Z",
+    "end_date": "2026-07-02T15:00:00.000Z",
+    "scraped_at": "2026-06-26T06:04:32.369162+00:00"
   }
 ]

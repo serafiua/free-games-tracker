@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-02 05:52 UTC_
+_Last updated: 2026-07-03 05:46 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [RollerCoaster Tycoon 3 Complete Edition](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition) | IDR 288,000 | Jul 02, 2026 |
-| [Voidwrought](https://store.epicgames.com/en-US/p/voidwrought-ce8f4b) | IDR 137,999 | Jul 02, 2026 |
+| [River City Girls 2](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a) | IDR 276,999 | Jul 09, 2026 |
+| [I Have No Mouth, and I Must Scream](https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2) | IDR 69,999 | Jul 09, 2026 |
 
 ## 📦 Data
 

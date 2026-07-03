@@ -188,5 +188,25 @@
     "start_date": "2026-06-25T15:00:00.000Z",
     "end_date": "2026-07-02T15:00:00.000Z",
     "scraped_at": "2026-06-26T06:04:32.369162+00:00"
+  },
+  {
+    "title": "River City Girls 2",
+    "platform": "Epic Games",
+    "original_price": "IDR 276,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png",
+    "url": "https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a",
+    "start_date": "2026-07-02T15:00:00.000Z",
+    "end_date": "2026-07-09T15:00:00.000Z",
+    "scraped_at": "2026-07-03T05:46:57.701948+00:00"
+  },
+  {
+    "title": "I Have No Mouth, and I Must Scream",
+    "platform": "Epic Games",
+    "original_price": "IDR 69,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png",
+    "url": "https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+    "start_date": "2026-07-02T15:00:00.000Z",
+    "end_date": "2026-07-09T15:00:00.000Z",
+    "scraped_at": "2026-07-03T05:46:57.701948+00:00"
   }
 ]

@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-09 06:03 UTC_
+_Last updated: 2026-07-10 05:57 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [River City Girls 2](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a) | IDR 276,999 | Jul 09, 2026 |
-| [I Have No Mouth, and I Must Scream](https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2) | IDR 69,999 | Jul 09, 2026 |
+| [Nova Lands](https://store.epicgames.com/en-US/p/nova-lands-4d1788) | IDR 165,999 | Jul 16, 2026 |
+| [Tattoo Tycoon](https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c) | IDR 269,000 | Jul 16, 2026 |
 
 ## 📦 Data
 

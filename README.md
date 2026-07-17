@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-16 04:54 UTC_
+_Last updated: 2026-07-17 04:57 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Nova Lands](https://store.epicgames.com/en-US/p/nova-lands-4d1788) | IDR 165,999 | Jul 16, 2026 |
-| [Tattoo Tycoon](https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c) | IDR 269,000 | Jul 16, 2026 |
+| [Luto](https://store.epicgames.com/en-US/p/luto-0a4ab3) | IDR 165,999 | Jul 23, 2026 |
+| [Echo Generation: Midnight Edition](https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026) | IDR 172,999 | Jul 23, 2026 |
 
 ## 📦 Data
 

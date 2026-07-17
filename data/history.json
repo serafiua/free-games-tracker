@@ -228,5 +228,25 @@
     "start_date": "2026-07-09T15:00:00.000Z",
     "end_date": "2026-07-16T15:00:00.000Z",
     "scraped_at": "2026-07-10T05:57:50.115362+00:00"
+  },
+  {
+    "title": "Luto",
+    "platform": "Epic Games",
+    "original_price": "IDR 165,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png",
+    "url": "https://store.epicgames.com/en-US/p/luto-0a4ab3",
+    "start_date": "2026-07-16T15:00:00.000Z",
+    "end_date": "2026-07-23T15:00:00.000Z",
+    "scraped_at": "2026-07-17T04:57:58.930356+00:00"
+  },
+  {
+    "title": "Echo Generation: Midnight Edition",
+    "platform": "Epic Games",
+    "original_price": "IDR 172,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
+    "url": "https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026",
+    "start_date": "2026-07-16T15:00:00.000Z",
+    "end_date": "2026-07-23T15:00:00.000Z",
+    "scraped_at": "2026-07-17T04:57:58.930356+00:00"
   }
 ]

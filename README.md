@@ -2,14 +2,13 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-23 05:19 UTC_
+_Last updated: 2026-07-24 05:15 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Luto](https://store.epicgames.com/en-US/p/luto-0a4ab3) | IDR 165,999 | Jul 23, 2026 |
-| [Echo Generation: Midnight Edition](https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026) | IDR 172,999 | Jul 23, 2026 |
+| [Foretales](https://store.epicgames.com/en-US/p/foretales-d6c5bd) | IDR 298,682 | Jul 30, 2026 |
 
 ## 📦 Data
 

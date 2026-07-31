@@ -2,13 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-30 04:52 UTC_
+_Last updated: 2026-07-31 05:29 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Foretales](https://store.epicgames.com/en-US/p/foretales-d6c5bd) | IDR 298,682 | Jul 30, 2026 |
+| [OTXO](https://store.epicgames.com/en-US/p/otxo-396b8b) | IDR 103,999 | Aug 06, 2026 |
+| [Sol Cesto](https://store.epicgames.com/en-US/p/sol-cesto-e9b803) | IDR 122,999 | Aug 06, 2026 |
 
 ## 📦 Data
 

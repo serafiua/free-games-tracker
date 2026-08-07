@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-06 05:10 UTC_
+_Last updated: 2026-08-07 04:21 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [OTXO](https://store.epicgames.com/en-US/p/otxo-396b8b) | IDR 103,999 | Aug 06, 2026 |
-| [Sol Cesto](https://store.epicgames.com/en-US/p/sol-cesto-e9b803) | IDR 122,999 | Aug 06, 2026 |
+| [Beacon Pines](https://store.epicgames.com/en-US/p/beacon-pines-629fc3) | IDR 137,999 | Aug 13, 2026 |
+| [We Were Here Together](https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66) | IDR 89,999 | Aug 13, 2026 |
 
 ## 📦 Data
 

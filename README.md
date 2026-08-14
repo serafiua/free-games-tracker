@@ -2,14 +2,13 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-13 04:03 UTC_
+_Last updated: 2026-08-14 04:00 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Beacon Pines](https://store.epicgames.com/en-US/p/beacon-pines-629fc3) | IDR 137,999 | Aug 13, 2026 |
-| [We Were Here Together](https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66) | IDR 89,999 | Aug 13, 2026 |
+| [Caravan SandWitch](https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58) | IDR 140,000 | Aug 20, 2026 |
 
 ## 📦 Data
 

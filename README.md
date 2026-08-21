@@ -2,13 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-20 02:50 UTC_
+_Last updated: 2026-08-21 02:56 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Caravan SandWitch](https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58) | IDR 140,000 | Aug 20, 2026 |
+| [Cardpocalypse Standard Edition](https://store.epicgames.com/en-US/p/cardpocalypse) | IDR 187,000 | Aug 27, 2026 |
+| [Epic Mage Bundle](https://store.epicgames.com/en-US/p/albion-online-7eb24d) | 0 | Aug 27, 2026 |
 
 ## 📦 Data
 

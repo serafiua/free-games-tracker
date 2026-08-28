@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-27 12:13 UTC_
+_Last updated: 2026-08-28 13:38 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Cardpocalypse Standard Edition](https://store.epicgames.com/en-US/p/cardpocalypse) | IDR 187,000 | Aug 27, 2026 |
-| [Epic Mage Bundle](https://store.epicgames.com/en-US/p/albion-online-7eb24d) | 0 | Aug 27, 2026 |
+| [Breathedge](https://store.epicgames.com/en-US/p/breathedge) | IDR 199,000 | Sep 03, 2026 |
+| [Rival Stars Horse Racing : Desktop Edition](https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de) | IDR 172,999 | Sep 03, 2026 |
 
 ## 📦 Data
 

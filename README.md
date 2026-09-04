@@ -2,14 +2,13 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-09-03 06:43 UTC_
+_Last updated: 2026-09-04 06:49 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Breathedge](https://store.epicgames.com/en-US/p/breathedge) | IDR 199,000 | Sep 03, 2026 |
-| [Rival Stars Horse Racing : Desktop Edition](https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de) | IDR 172,999 | Sep 03, 2026 |
+| [Alone With You](https://store.epicgames.com/en-US/p/alone-with-you-028a15) | IDR 69,999 | Sep 10, 2026 |
 
 ## 📦 Data
 

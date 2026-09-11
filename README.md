@@ -2,13 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-09-10 06:53 UTC_
+_Last updated: 2026-09-11 06:53 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Alone With You](https://store.epicgames.com/en-US/p/alone-with-you-028a15) | IDR 69,999 | Sep 10, 2026 |
+| [Luftrausers](https://store.epicgames.com/en-US/p/luftrausers-51e5e9) | IDR 69,999 | Sep 17, 2026 |
+| [Astral Ascent](https://store.epicgames.com/en-US/p/astral-ascent-b33bc2) | IDR 206,999 | Sep 17, 2026 |
 
 ## 📦 Data
 

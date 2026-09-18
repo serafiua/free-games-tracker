@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-09-17 06:58 UTC_
+_Last updated: 2026-09-18 06:56 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Luftrausers](https://store.epicgames.com/en-US/p/luftrausers-51e5e9) | IDR 69,999 | Sep 17, 2026 |
-| [Astral Ascent](https://store.epicgames.com/en-US/p/astral-ascent-b33bc2) | IDR 206,999 | Sep 17, 2026 |
+| [Mindcop](https://store.epicgames.com/en-US/p/mindcop-78e6c1) | IDR 81,000 | Sep 24, 2026 |
+| [Shogun Showdown](https://store.epicgames.com/en-US/p/shogun-showdown-61832d) | IDR 103,999 | Sep 24, 2026 |
 
 ## 📦 Data
 

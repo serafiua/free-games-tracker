@@ -1,22 +1,22 @@
 [
   {
-    "title": "Luftrausers",
+    "title": "Mindcop",
     "platform": "Epic Games",
-    "original_price": "IDR 69,999",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
-    "url": "https://store.epicgames.com/en-US/p/luftrausers-51e5e9",
-    "start_date": "2026-09-10T15:00:00.000Z",
-    "end_date": "2026-09-17T15:00:00.000Z",
-    "scraped_at": "2026-09-17T06:58:53.179040+00:00"
+    "original_price": "IDR 81,000",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+    "url": "https://store.epicgames.com/en-US/p/mindcop-78e6c1",
+    "start_date": "2026-09-17T15:00:00.000Z",
+    "end_date": "2026-09-24T15:00:00.000Z",
+    "scraped_at": "2026-09-18T06:56:11.397431+00:00"
   },
   {
-    "title": "Astral Ascent",
+    "title": "Shogun Showdown",
     "platform": "Epic Games",
-    "original_price": "IDR 206,999",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
-    "url": "https://store.epicgames.com/en-US/p/astral-ascent-b33bc2",
-    "start_date": "2026-09-10T15:00:00.000Z",
-    "end_date": "2026-09-17T15:00:00.000Z",
-    "scraped_at": "2026-09-17T06:58:53.179040+00:00"
+    "original_price": "IDR 103,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg",
+    "url": "https://store.epicgames.com/en-US/p/shogun-showdown-61832d",
+    "start_date": "2026-09-17T15:00:00.000Z",
+    "end_date": "2026-09-24T15:00:00.000Z",
+    "scraped_at": "2026-09-18T06:56:11.397431+00:00"
   }
 ]

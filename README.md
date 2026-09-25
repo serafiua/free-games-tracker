@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-09-24 07:01 UTC_
+_Last updated: 2026-09-25 06:57 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Mindcop](https://store.epicgames.com/en-US/p/mindcop-78e6c1) | IDR 81,000 | Sep 24, 2026 |
-| [Shogun Showdown](https://store.epicgames.com/en-US/p/shogun-showdown-61832d) | IDR 103,999 | Sep 24, 2026 |
+| [Astrea Six Sided Oracles](https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949) | IDR 172,999 | Oct 01, 2026 |
+| [Mechabellum](https://store.epicgames.com/en-US/p/mechabellum-88a843) | IDR 130,999 | Oct 01, 2026 |
 
 ## 📦 Data
 

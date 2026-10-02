@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-10-01 08:07 UTC_
+_Last updated: 2026-10-02 07:48 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Astrea Six Sided Oracles](https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949) | IDR 172,999 | Oct 01, 2026 |
-| [Mechabellum](https://store.epicgames.com/en-US/p/mechabellum-88a843) | IDR 130,999 | Oct 01, 2026 |
+| [System Shock 2: 25th Anniversary Remaster](https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9) | IDR 207,999 | Oct 08, 2026 |
+| [BURIED STARS](https://store.epicgames.com/en-US/p/buried-stars-d7c88c) | IDR 169,999 | Oct 08, 2026 |
 
 ## 📦 Data
 

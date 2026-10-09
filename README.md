@@ -2,14 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-10-08 08:14 UTC_
+_Last updated: 2026-10-09 08:16 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [System Shock 2: 25th Anniversary Remaster](https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9) | IDR 207,999 | Oct 08, 2026 |
-| [BURIED STARS](https://store.epicgames.com/en-US/p/buried-stars-d7c88c) | IDR 169,999 | Oct 08, 2026 |
+| [Out of Sight](https://store.epicgames.com/en-US/p/out-of-sight-b96ca8) | IDR 127,000 | Oct 15, 2026 |
+| [TerraScape](https://store.epicgames.com/en-US/p/terrascape-2b12b1) | IDR 117,999 | Oct 15, 2026 |
 
 ## 📦 Data
 

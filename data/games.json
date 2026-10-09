@@ -1,22 +1,22 @@
 [
   {
-    "title": "System Shock 2: 25th Anniversary Remaster",
+    "title": "Out of Sight",
     "platform": "Epic Games",
-    "original_price": "IDR 207,999",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg",
-    "url": "https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9",
-    "start_date": "2026-10-01T15:00:00.000Z",
-    "end_date": "2026-10-08T15:00:00.000Z",
-    "scraped_at": "2026-10-08T08:14:44.060163+00:00"
+    "original_price": "IDR 127,000",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
+    "url": "https://store.epicgames.com/en-US/p/out-of-sight-b96ca8",
+    "start_date": "2026-10-08T15:00:00.000Z",
+    "end_date": "2026-10-15T15:00:00.000Z",
+    "scraped_at": "2026-10-09T08:16:20.675845+00:00"
   },
   {
-    "title": "BURIED STARS",
+    "title": "TerraScape",
     "platform": "Epic Games",
-    "original_price": "IDR 169,999",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg",
-    "url": "https://store.epicgames.com/en-US/p/buried-stars-d7c88c",
-    "start_date": "2026-10-01T15:00:00.000Z",
-    "end_date": "2026-10-08T15:00:00.000Z",
-    "scraped_at": "2026-10-08T08:14:44.060163+00:00"
+    "original_price": "IDR 117,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
+    "url": "https://store.epicgames.com/en-US/p/terrascape-2b12b1",
+    "start_date": "2026-10-08T15:00:00.000Z",
+    "end_date": "2026-10-15T15:00:00.000Z",
+    "scraped_at": "2026-10-09T08:16:20.675845+00:00"
   }
 ]

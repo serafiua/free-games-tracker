@@ -458,5 +458,15 @@
     "start_date": "2026-10-08T15:00:00.000Z",
     "end_date": "2026-10-15T15:00:00.000Z",
     "scraped_at": "2026-10-09T08:16:20.675845+00:00"
+  },
+  {
+    "title": "Agent A: A puzzle in disguise",
+    "platform": "Epic Games",
+    "original_price": "IDR 137,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
+    "url": "https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f",
+    "start_date": "2026-10-15T15:00:00.000Z",
+    "end_date": "2026-10-22T15:00:00.000Z",
+    "scraped_at": "2026-10-16T06:37:20.738571+00:00"
   }
 ]

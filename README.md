@@ -2,14 +2,13 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-10-15 06:49 UTC_
+_Last updated: 2026-10-16 06:37 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Out of Sight](https://store.epicgames.com/en-US/p/out-of-sight-b96ca8) | IDR 127,000 | Oct 15, 2026 |
-| [TerraScape](https://store.epicgames.com/en-US/p/terrascape-2b12b1) | IDR 117,999 | Oct 15, 2026 |
+| [Agent A: A puzzle in disguise](https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f) | IDR 137,999 | Oct 22, 2026 |
 
 ## 📦 Data
 

@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-10-20 06:58 UTC_
+_Last updated: 2026-10-21 06:52 UTC_
 
 ## 🔥 Current free games
 

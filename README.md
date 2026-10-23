@@ -2,13 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-10-22 06:55 UTC_
+_Last updated: 2026-10-23 06:48 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Agent A: A puzzle in disguise](https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f) | IDR 137,999 | Oct 22, 2026 |
+| [Sker Ritual](https://store.epicgames.com/en-US/p/sker-ritual-aac702) | IDR 172,999 | Oct 29, 2026 |
+| [Home - A Unique Horror Adventure](https://store.epicgames.com/en-US/p/home-19212a) | IDR 34,999 | Oct 29, 2026 |
 
 ## 📦 Data
 

@@ -468,5 +468,25 @@
     "start_date": "2026-10-15T15:00:00.000Z",
     "end_date": "2026-10-22T15:00:00.000Z",
     "scraped_at": "2026-10-16T06:37:20.738571+00:00"
+  },
+  {
+    "title": "Sker Ritual",
+    "platform": "Epic Games",
+    "original_price": "IDR 172,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png",
+    "url": "https://store.epicgames.com/en-US/p/sker-ritual-aac702",
+    "start_date": "2026-10-22T15:00:00.000Z",
+    "end_date": "2026-10-29T15:00:00.000Z",
+    "scraped_at": "2026-10-23T06:48:40.126608+00:00"
+  },
+  {
+    "title": "Home - A Unique Horror Adventure",
+    "platform": "Epic Games",
+    "original_price": "IDR 34,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
+    "url": "https://store.epicgames.com/en-US/p/home-19212a",
+    "start_date": "2026-10-22T15:00:00.000Z",
+    "end_date": "2026-10-29T15:00:00.000Z",
+    "scraped_at": "2026-10-23T06:48:40.126608+00:00"
   }
 ]

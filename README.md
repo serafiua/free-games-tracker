@@ -2,14 +2,13 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-10-29 07:53 UTC_
+_Last updated: 2026-10-30 07:56 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Sker Ritual](https://store.epicgames.com/en-US/p/sker-ritual-aac702) | IDR 172,999 | Oct 29, 2026 |
-| [Home - A Unique Horror Adventure](https://store.epicgames.com/en-US/p/home-19212a) | IDR 34,999 | Oct 29, 2026 |
+| [Sorry We're Closed](https://store.epicgames.com/en-US/p/sorry-were-closed-724c86) | IDR 172,999 | Nov 05, 2026 |
 
 ## 📦 Data
 

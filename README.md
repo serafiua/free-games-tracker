@@ -2,13 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-11-05 08:50 UTC_
+_Last updated: 2026-11-06 08:49 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Sorry We're Closed](https://store.epicgames.com/en-US/p/sorry-were-closed-724c86) | IDR 172,999 | Nov 05, 2026 |
+| [Idle Champions of the Forgotten Realms](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms) | 0 | Nov 12, 2026 |
+| [Flotsam](https://store.epicgames.com/en-US/p/flotsam-266287) | IDR 134,999 | Nov 12, 2026 |
 
 ## 📦 Data
 

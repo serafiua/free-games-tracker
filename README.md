@@ -2,11 +2,13 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-11-18 09:35 UTC_
+_Last updated: 2026-11-19 09:43 UTC_
 
 ## 🔥 Current free games
 
-_No free games found right now. Check back later!_
+| Game | Normal Price | Available Until |
+|------|-------------|-----------------|
+| [Knightica](https://store.epicgames.com/en-US/p/knightica-3be45c) | IDR 103,999 | Nov 19, 2026 |
 
 ## 📦 Data
 

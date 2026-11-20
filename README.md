@@ -2,13 +2,13 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-11-19 09:43 UTC_
+_Last updated: 2026-11-20 09:30 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Knightica](https://store.epicgames.com/en-US/p/knightica-3be45c) | IDR 103,999 | Nov 19, 2026 |
+| [Mark of the Deep](https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08) | IDR 165,999 | Nov 26, 2026 |
 
 ## 📦 Data
 

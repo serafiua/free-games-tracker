@@ -2,13 +2,14 @@
 
 Automatically tracks free games from **Epic Games** — updated daily via GitHub Actions.
 
-_Last updated: 2026-11-26 10:17 UTC_
+_Last updated: 2026-11-27 10:23 UTC_
 
 ## 🔥 Current free games
 
 | Game | Normal Price | Available Until |
 |------|-------------|-----------------|
-| [Mark of the Deep](https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08) | IDR 165,999 | Nov 26, 2026 |
+| [Firestone – Idle Clicker Online RPG](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) | 0 | Dec 03, 2026 |
+| [Bread and Fred](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) | IDR 103,999 | Dec 03, 2026 |
 
 ## 📦 Data
 

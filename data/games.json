@@ -1,12 +1,22 @@
 [
   {
-    "title": "Mark of the Deep",
+    "title": "Firestone – Idle Clicker Online RPG",
     "platform": "Epic Games",
-    "original_price": "IDR 165,999",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
-    "url": "https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08",
-    "start_date": "2026-11-19T16:00:00.000Z",
-    "end_date": "2026-11-26T16:00:00.000Z",
-    "scraped_at": "2026-11-26T10:17:13.305413+00:00"
+    "original_price": "0",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1inmf.jpg",
+    "url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+    "start_date": "2026-11-26T16:00:00.000Z",
+    "end_date": "2026-12-03T16:00:00.000Z",
+    "scraped_at": "2026-11-27T10:23:17.010925+00:00"
+  },
+  {
+    "title": "Bread and Fred",
+    "platform": "Epic Games",
+    "original_price": "IDR 103,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
+    "url": "https://store.epicgames.com/en-US/p/bread-and-fred-1db362",
+    "start_date": "2026-11-26T16:00:00.000Z",
+    "end_date": "2026-12-03T16:00:00.000Z",
+    "scraped_at": "2026-11-27T10:23:17.010925+00:00"
   }
 ]
